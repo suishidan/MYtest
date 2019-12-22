@@ -20,6 +20,7 @@
       <li>
         <a href="read.php"><strong>Read</strong></a> - find a member
       </li>
+    
     </ul>
   </body>
 </html>
